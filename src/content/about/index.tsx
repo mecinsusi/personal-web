@@ -18,7 +18,7 @@ export function AboutContent() {
       <div className="text-center font-lilita text-md md:text-lg p-8">
         <a
           href={
-            "https://drive.google.com/file/d/1IPIaLOsfefkYv2uEcfY2JfCZf17xMzQi/view?usp=sharing"
+            "https://drive.google.com/file/d/1OeeCNLMsB2-JulJU9V7_YorvgQsA7JfQ/view?usp=drive_link"
           }
           className="text-neutral-100 border-2 border-cyan-500 p-4 rounded-lg animate-pulse"
           target="__blank"

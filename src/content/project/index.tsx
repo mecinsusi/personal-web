@@ -49,6 +49,8 @@ export function ProjectContent() {
           <li>
             Website Development: Designed a responsive and aesthetically
             pleasing website using modern web development technologies.
+            Currently using static data for evaluation the website and get
+            feedback from the user.
           </li>
           <li>
             Inventory System: Developed and integrated a user-friendly inventory
@@ -94,11 +96,35 @@ export function ProjectContent() {
               className="text-red-500 italic hover:text-green-500"
               target="__blank"
             >
-              pasains.dev
+              pasains.dev{" "}
+            </a>
+            Git Hub:{" "}
+            <a
+              href="https://github.com/pasains/landingpage"
+              className="text-red-500 italic hover:text-green-500"
+              target="__blank"
+            >
+              github.com/pasains/landingpage
             </a>
           </li>
           <li>
-            Inventory managemen: in development (creation of database system)
+            Inventory managemen: Currently still develop this project, link
+            github the back-end:{" "}
+            <a
+              href="https://github.com/pasains/portal-be"
+              className="text-red-500 italic hover:text-green-500"
+              target="__blank"
+            >
+              github.com/pasains/portal-be{" "}
+            </a>
+            and the front-end:{" "}
+            <a
+              href="https://github.com/pasains/portal-fe"
+              className="text-red-500 italic hover:text-green-500"
+              target="__blank"
+            >
+              github.com/pasains/portal-fe
+            </a>
           </li>
         </ol>
       </div>
