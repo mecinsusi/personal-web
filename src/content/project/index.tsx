@@ -96,7 +96,7 @@ export function ProjectContent() {
               className="text-red-500 italic hover:text-green-500"
               target="__blank"
             >
-              pasains.dev{" "}
+              pasains.org{" "}
             </a>
             Git Hub:{" "}
             <a
