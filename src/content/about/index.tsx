@@ -15,17 +15,6 @@ export function AboutContent() {
         field drives me to strive for excellence, staying abreast of the latest
         advancements to maximize my impact in the future.
       </p>
-      <div className="text-center font-lilita text-md md:text-lg p-8">
-        <a
-          href={
-            "https://drive.google.com/file/d/1OeeCNLMsB2-JulJU9V7_YorvgQsA7JfQ/view?usp=drive_link"
-          }
-          className="text-neutral-100 border-2 border-cyan-500 p-4 rounded-lg animate-pulse"
-          target="__blank"
-        >
-          CURICULUM VITAE
-        </a>
-      </div>
     </div>
   );
 }

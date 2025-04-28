@@ -74,6 +74,9 @@ export function ProjectContent() {
           <li>
             Database: <em className="font-bold">PostgreSQL</em>{" "}
           </li>
+          <li>
+            Testing API: <em className="font-bold">Postman</em>{" "}
+          </li>
         </ol>
         <section className="text-lg font-bold text-yellow-500 pb-2">
           Outcome (Expected):{" "}
